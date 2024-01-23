@@ -14,3 +14,14 @@ The dataset is formatted as a collection of json objects, each defines a prompt-
     "id": ["1"],
   },
 ```
+The initial version of the dataset contains 50 short stories.
+
+# Download SGE
+The single file to download the entire data is [prompt_story.json](prompt_story.json).
+
+# Paper
+Details of data construction and performance analyses are available in our companion paper:
+
+- Avi Bleiweiss. *Commonsense Knowledge Transfer from Authored to Prompt-based
+Generated Short Stories*. In BShalem, 2024.
+
