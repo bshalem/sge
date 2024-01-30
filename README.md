@@ -27,10 +27,10 @@ Generated Short Stories*. In BShalem, 2024.
 
 ### Citation
      @techreport{bleiweiss-2024-bshalem,
-      title = "Commonsense Knowledge Transfer from Authored to Prompt-based
-Generated Short Stories",
+      title = "Commonsense Knowledge Transfer from Authored to Prompt-based Generated Short Stories",
       author = "Bleiweiss, Avi",
       institution = "BShalem",
+      number = "01",
       month = feb,
       year = "2024",
       address = "online",
