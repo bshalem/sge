@@ -14,7 +14,7 @@ The dataset is formatted as a collection of json objects, each defines a prompt-
     "id": ["1"],
   },
 ```
-The initial version of the dataset contains 50 short stories.
+The initial version of the dataset contains 50 short stories, ten for each supported genre.
 
 # Download SGE
 The single file to download the entire data is [prompt_story.json](prompt_story.json).
