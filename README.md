@@ -34,5 +34,6 @@ Generated Short Stories*. In BShalem, 2024.
       month = feb,
       year = "2024",
       address = "online",
+      note = "\url{https://www.aviitshakb.com/publications}"
     }
     
